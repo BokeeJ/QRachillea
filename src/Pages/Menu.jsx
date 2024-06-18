@@ -4,7 +4,7 @@ import React from 'react'
 function Menu() {
     return (
         <div className='w-full lg:h-full h-screen flex justify-center relative bg-black'>
-            <img className='lg:w-[60%] h-full object-cover object-center' src="/Meni.webp" alt="meni" />
+            <img className='lg:w-[60%]  h-full  object-center' src="/Meni.webp" alt="meni" />
             {/* SocialNetwork */}
             <div className='absolute bottom-0 flex gap-3 lg:m-3 p-1'>
                 <a target='_blank' href="https://www.instagram.com/rakija_achillea?igsh=ZzVxY2dpMWUxeGlu" title="instagram">
